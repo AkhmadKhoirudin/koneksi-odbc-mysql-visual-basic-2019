@@ -21,6 +21,5 @@ Module Module1
             Form1.statusdb.Text = "disconek"
             Form1.statusdb.ForeColor = Color.Red
 
-
         End Try
     End Sub
